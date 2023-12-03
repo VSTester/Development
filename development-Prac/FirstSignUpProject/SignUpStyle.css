@@ -1,0 +1,67 @@
+body{
+background: linear-gradient(to left, #8942a8, #ba382f);
+/* background-image: url("backGround.gif"); */
+background-repeat: repeat;
+margin: 0px auto;
+padding: 0px auto;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+
+}
+
+/* label {
+  color: rgba(153, 8, 156, 2.2);
+  font-size: 18px ;
+  font-weight: bold;
+display: inline-block;
+width: 100px;
+text-align: center;
+height: 2em
+}
+
+
+.button {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 200px;
+  height: 1.5em;
+  font-size: 1em;
+  border-radius: 25px;
+}
+
+button span{
+  color: rgba(111, 105, 112, 6.5);
+}
+
+.hogwart-SignUp{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 200px;
+  height: 1.5em;
+  border-radius: 25px;
+  text-align: center;
+}
+
+
+
+.SignUp_Header{
+  padding: auto;
+  margin: auto;
+  border-style: solid;
+  background-color: rgba(17, 168, 173, 0.5);
+  border-color: blue;
+  font-size: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.SignUp-sub-Header{
+
+  color: rgba(101, 10, 204, 2.2);
+  padding: auto;
+  margin: auto;
+  width: 30%;
+  border-style: dotted;
+  /* background-color: rgba(17, 168, 173, 0.5); */
+  /* border-color: rgba(17, 168, 173, 0.5);;
+
+  font-size: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}  */
